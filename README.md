@@ -23,4 +23,4 @@ We updated the HTLM and JS in order to add additional functionality to a site th
 
 ## Summary
 
-- The new design is quite nice and alows us to search by multiple different criteria. We shoudl probably add a feature that allows us to clear the filter instantly without having to manualy change all the filter options. 
+- The new design is quite nice and allows us to search by multiple different criteria. We should add a feature that allows us to clear the filter instantly without having to manualy change all the filter options. 
