@@ -19,7 +19,7 @@ We updated the HTLM and JS in order to add additional functionality to a site th
 
 - The user can enter the above filter criteria in the image box below
 
-![filter.png]https://github.com/kejtkjet1/UFOs/blob/main/static/images/filter.png
+![filter.png]https://github.com/kejtkjet1/UFOs/blob/main/static/images/filter.png!
 
 ## Summary
 
