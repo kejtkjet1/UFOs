@@ -18,6 +18,8 @@ We updated the HTLM and JS in order to add additional functionality to a site th
     - shape
 
 - The user can enter the above filter criteria in the image box below
+
+
 ![filter](https://user-images.githubusercontent.com/87611145/139598435-d7926173-aecf-441a-9310-7437f99a2324.png)
 
 ## Summary
